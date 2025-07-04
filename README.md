@@ -20,5 +20,5 @@ I'm a self-taught developer and technology explorer — passionate about buildin
 
 ## 📫 Reach Me
 Feel free to connect or collaborate on interesting projects:
-- Email: [your-email@example.com]
-- Website/Portfolio: [yourwebsite.com]
+- Email: [elyasinsadri.o@gmail.com]
+- Telegram: [https://t.me/iabltzero]
