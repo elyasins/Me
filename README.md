@@ -1,19 +1,19 @@
 # 👋 Hey, I'm Elyasin
 
-I'm a self-taught developer and technology explorer — passionate about building cool things, learning deeply, and mastering the craft.
+I'm a self-taught developer. Yup.
 
-## 🚀 What I'm Working On
+## 🚀 a cool missile emoji
 - 🧠 Leveling up in full-stack web development
 - 🛡️ Exploring cybersecurity and ethical hacking
 - 🎵 Building music-related tools and creative experiments
 
-## 🧰 Tech Stack
+## 🧰 the things i know (kinda)
 - **Languages:** JavaScript, Python, HTML, CSS
 - **Frameworks:** React, Node.js, Express
 - **Tools:** Git, VS Code, Figma, Vite, Webpack
 - **OS:** Linux-based environments
 
-## 🧠 Currently Learning
+## 🧠 what i'm actually working on (still kinda)
 - Advanced JavaScript & modern frameworks
 - Web security and ethical hacking
 - Creative coding and generative visuals
